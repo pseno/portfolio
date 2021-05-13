@@ -15,10 +15,12 @@ function Portfolio() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 className="title">Portfolio</h1>
-            <p className="description">These are my applications.</p>
+            <p className="description">my projects:</p>
 
             <div>
-              <a href="https://github.com/pseno/Number-Guesser"></a>
+              <a href="https://github.com/pseno/Number-Guesser">
+                Number Guesser
+              </a>
             </div>
           </div>
         </div>
