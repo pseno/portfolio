@@ -17,19 +17,8 @@ function Portfolio() {
             <h1 className="title">Portfolio</h1>
             <p className="description">These are my applications.</p>
 
-            <div className="portfolio-wrapper">
-              <div className="portfolio-item">
-                <img src="/chitchat.png" className="portfolio-image" />
-
-                <h4 className="portfolio-name">Chat App Exploration</h4>
-                <div className="portfolio-category">Mobile Dev</div>
-              </div>
-              <div className="portfolio-item">
-                <img src="/kajian.jpg" className="portfolio-image" />
-
-                <h4 className="portfolio-name">kajian App</h4>
-                <div className="portfolio-category">Mobile Dev</div>
-              </div>
+            <div>
+              <a href="https://github.com/pseno/Number-Guesser"></a>
             </div>
           </div>
         </div>
