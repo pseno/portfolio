@@ -171,27 +171,6 @@ function Home() {
                     d="m10730 2240c0-5 5-10 10-10 6 0 10 5 10 10 0 6-4 10-10 10-5 0-10-4-10-10z"
                     transform="matrix(.1 0 0 -.1 -135.12 1926.5)"
                   />
-                </g>
-              </g>
-              <metadata>
-                <rdf:RDF>
-                  <cc:Work>
-                    <dc:format>image/svg+xml</dc:format>
-                    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-                    <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-                    <dc:publisher>
-                      <cc:Agent rdf:about="http://openclipart.org/">
-                        <dc:title>Openclipart</dc:title>
-                      </cc:Agent>
-                    </dc:publisher>
-                  </cc:Work>
-                  <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
-                    <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
-                    <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
-                    <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-                  </cc:License>
-                </rdf:RDF>
-              </metadata>
             </svg>
           </div>
         </div>
