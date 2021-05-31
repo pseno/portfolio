@@ -26,8 +26,8 @@ function Home() {
             <svg
               version="1.0"
               xmlns="http://www.w3.org/2000/svg"
-              width="2028.000000pt"
-              height="1152.000000pt"
+              width="750px"
+              height="750px"
               viewBox="0 0 2028.000000 1152.000000"
               preserveAspectRatio="xMidYMid meet"
             >
