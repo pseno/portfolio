@@ -18,11 +18,11 @@ function Portfolio() {
             <p className="description">my projects:</p>
 
             <div>
-              <a href="https://number-guesser.pseno.repl.co/">Number Guesser</a>
-              <a href="https://excursion.pseno.repl.co/">Excursion</a>
+              <a href="https://number-guesser.pseno.repl.co/">Number Guesser</a> <br>
+              <a href="https://excursion.pseno.repl.co/">Excursion</a> <br>
               <a href="https://replit.com/@pseno/nodejs-random-color-generator#index.js">
                 Random color generator
-              </a>
+              </a> <br>
               <a href="https://replit.com/@pseno/Nodejs-Meme-craper#Meme/image0.jpg">
                 Meme scraper
               </a>
