@@ -19,6 +19,13 @@ function Portfolio() {
 
             <div>
               <a href="https://number-guesser.pseno.repl.co/">Number Guesser</a>
+              <a href="https://excursion.pseno.repl.co/">Excursion</a>
+              <a href="https://replit.com/@pseno/nodejs-random-color-generator#index.js">
+                Random color generator
+              </a>
+              <a href="https://replit.com/@pseno/Nodejs-Meme-craper#Meme/image0.jpg">
+                Meme scraper
+              </a>
             </div>
           </div>
         </div>
