@@ -27,7 +27,7 @@ function Home() {
               version="1.0"
               xmlns="http://www.w3.org/2000/svg"
               width="750px"
-              height="750px"
+              height="500px"
               viewBox="0 0 2028.000000 1152.000000"
               preserveAspectRatio="xMidYMid meet"
             >
