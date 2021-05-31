@@ -18,9 +18,7 @@ function Portfolio() {
             <p className="description">my projects:</p>
 
             <div>
-              <a href="https://replit.com/@pseno/Number-Guesser#script.js">
-                Number Guesser
-              </a>
+              <a href="https://number-guesser.pseno.repl.co/">Number Guesser</a>
             </div>
           </div>
         </div>
