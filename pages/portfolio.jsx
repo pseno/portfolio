@@ -31,6 +31,11 @@ function Portfolio() {
               </a>
             </div>
             <div>
+              <a href="https://treasure-hunter00.netlify.app/" target="_blank">
+                Treasure Hunter
+              </a>
+            </div>
+            <div>
               <a href="https://mole-unearther00.netlify.app/" target="_blank">
                 Mole Unearther
               </a>
