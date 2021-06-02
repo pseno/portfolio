@@ -15,7 +15,9 @@ function About() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 className="title">About</h1>
-            <p className="description">Junior web developer.</p>
+            <p className="description">
+              Junior web developer (HTML, CSS, JavaScript).
+            </p>
           </div>
         </div>
       </section>
