@@ -23,8 +23,11 @@ function Portfolio() {
               </a>
             </div>
             <div>
-              <a href="https://excursion.pseno.repl.co/" target="_blank">
-                Excursion
+              <a
+                href="https://business-outfitted-bob.netlify.app/"
+                target="_blank"
+              >
+                Business Outfitted Bob
               </a>
             </div>
             <div>
@@ -41,6 +44,11 @@ function Portfolio() {
                 target="_blank"
               >
                 Meme scraper
+              </a>
+            </div>
+            <div>
+              <a href="https://excursion.pseno.repl.co/" target="_blank">
+                Excursion
               </a>
             </div>
             <div>
