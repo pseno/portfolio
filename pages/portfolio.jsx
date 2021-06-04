@@ -28,6 +28,11 @@ function Portfolio() {
               </a>
             </div>
             <div>
+              <a href="https://electric-mouse.netlify.app/" target="_blank">
+                Electric Mouse
+              </a>
+            </div>
+            <div>
               <a
                 href="https://business-outfitted-bob.netlify.app/"
                 target="_blank"
