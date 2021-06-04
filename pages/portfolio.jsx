@@ -16,67 +16,78 @@ function Portfolio() {
           <div className="text-wrapper w-full">
             <h1 className="title">Portfolio</h1>
             <p className="description">my projects:</p>
-            <div>
-              <p>Games:</p>
+            <div className="fulldiv">
               <div>
-                <a href="https://number-guesser.pseno.repl.co/" target="_blank">
-                  Number Guesser
-                </a>
+                <p>Games:</p>
+                <div>
+                  <a
+                    href="https://number-guesser.pseno.repl.co/"
+                    target="_blank"
+                  >
+                    Number Guesser
+                  </a>
+                </div>
+                <div>
+                  <a href="https://cube-matcher.netlify.app/" target="_blank">
+                    Cube Matcher
+                  </a>
+                </div>
+                <div>
+                  <a href="https://electric-mouse.netlify.app/" target="_blank">
+                    Electric Mouse
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="https://business-outfitted-bob.netlify.app/"
+                    target="_blank"
+                  >
+                    Business Outfitted Bob
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="https://treasure-hunter00.netlify.app/"
+                    target="_blank"
+                  >
+                    Treasure Hunter
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="https://mole-unearther00.netlify.app/"
+                    target="_blank"
+                  >
+                    Mole Unearther
+                  </a>
+                </div>
               </div>
               <div>
-                <a href="https://cube-matcher.netlify.app/" target="_blank">
-                  Cube Matcher
-                </a>
+                <p>Comand line programs:</p>
+                <div>
+                  <a
+                    href="https://replit.com/@pseno/nodejs-random-color-generator#index.js"
+                    target="_blank"
+                  >
+                    Random color generator
+                  </a>
+                </div>
               </div>
               <div>
-                <a href="https://electric-mouse.netlify.app/" target="_blank">
-                  Electric Mouse
-                </a>
-              </div>
-              <div>
-                <a
-                  href="https://business-outfitted-bob.netlify.app/"
-                  target="_blank"
-                >
-                  Business Outfitted Bob
-                </a>
-              </div>
-              <div>
-                <a
-                  href="https://treasure-hunter00.netlify.app/"
-                  target="_blank"
-                >
-                  Treasure Hunter
-                </a>
-              </div>
-              <div>
-                <a href="https://mole-unearther00.netlify.app/" target="_blank">
-                  Mole Unearther
-                </a>
-              </div>
-            </div>
-            <div>
-              <p>Comand line programs:</p>
-              <div>
-                <a
-                  href="https://replit.com/@pseno/nodejs-random-color-generator#index.js"
-                  target="_blank"
-                >
-                  Random color generator
-                </a>
-              </div>
-            </div>
-            <div>
-              <p>Web pages:</p>
-              <div>
-                <a href="https://excursion.pseno.repl.co/" target="_blank">
-                  Excursion
-                </a>
-              </div>
-              <div>
-                <a href="https://colmar-academy.pseno.repl.co/" target="_blank">
-                  Colmar Academy
-                </a>
+                <p>Web pages:</p>
+                <div>
+                  <a href="https://excursion.pseno.repl.co/" target="_blank">
+                    Excursion
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="https://colmar-academy.pseno.repl.co/"
+                    target="_blank"
+                  >
+                    Colmar Academy
+                  </a>
+                </div>
               </div>
             </div>
           </div>
