@@ -93,7 +93,8 @@ a[href] {
 
     .fulldiv {
       display: flex;
-      float: right;
+      float: left;
+      justify-content: space-between;
     }
 
     .cta {
