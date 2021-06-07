@@ -17,7 +17,7 @@ function Portfolio() {
             <h1 className="title">Portfolio</h1>
             <p className="description">my projects:</p>
             <div className="fulldiv">
-              <div>
+              <div className="div1">
                 <p>Games:</p>
                 <div>
                   <a
@@ -62,7 +62,7 @@ function Portfolio() {
                   </a>
                 </div>
               </div>
-              <div>
+              <div className="div2">
                 <p>Comand line programs:</p>
                 <div>
                   <a
@@ -73,7 +73,7 @@ function Portfolio() {
                   </a>
                 </div>
               </div>
-              <div>
+              <div className="div3">
                 <p>Web pages:</p>
                 <div>
                   <a href="https://excursion.pseno.repl.co/" target="_blank">
