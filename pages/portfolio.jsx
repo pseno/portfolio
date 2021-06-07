@@ -62,6 +62,8 @@ function Portfolio() {
                   </a>
                 </div>
               </div>
+              <br />
+              <br />
               <div>
                 <p>Comand line programs:</p>
                 <div>
@@ -73,6 +75,8 @@ function Portfolio() {
                   </a>
                 </div>
               </div>
+              <br />
+              <br />
               <div>
                 <p>Web pages:</p>
                 <div>
