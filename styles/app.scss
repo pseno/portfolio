@@ -10,6 +10,7 @@ a[href] {
   text-decoration: none;
 }
 a:hover {
+  color: #fff;
   background-color: red;
 }
 
@@ -99,6 +100,9 @@ a:hover {
       display: flex;
       float: left;
       justify-content: space-between;
+    }
+    .fulldiv p {
+      font-size: 20px;
     }
 
     .div1 {
