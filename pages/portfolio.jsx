@@ -50,12 +50,7 @@ function Portfolio() {
                     href="https://treasure-hunter00.netlify.app/"
                     target="_blank"
                   >
-                    <img
-                      src="styles/pics/1.png"
-                      alt="Treasure Hunter"
-                      width="100px"
-                      height="100px"
-                    />
+                    <img src="styles\pics\1.png" alt="Treasure Hunter" />
                   </a>
                 </div>
                 <div>
