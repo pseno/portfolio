@@ -51,7 +51,7 @@ function Portfolio() {
                     target="_blank"
                   >
                     <img
-                      src="components/pics/Start Screen.png"
+                      src="styles/pics/1.png"
                       alt="Treasure Hunter"
                       width="100px"
                       height="100px"
