@@ -53,8 +53,8 @@ function Portfolio() {
                     <img
                       src="components/pics/Start Screen.png"
                       alt="Treasure Hunter"
-                      width="100"
-                      height="100"
+                      width="100px"
+                      height="100px"
                     />
                   </a>
                 </div>
