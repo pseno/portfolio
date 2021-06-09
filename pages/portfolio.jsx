@@ -50,7 +50,10 @@ function Portfolio() {
                     href="https://treasure-hunter00.netlify.app/"
                     target="_blank"
                   >
-                    Treasure Hunter
+                    <img
+                      src="components/pics/Start Screen.png"
+                      alt="Treasure Hunter"
+                    />
                   </a>
                 </div>
                 <div>
