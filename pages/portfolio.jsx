@@ -62,6 +62,11 @@ function Portfolio() {
                   </a>
                 </div>
                 <div>
+                  <a href="https://bug-dodger.netlify.app/" target="_blank">
+                    Bug Dodger
+                  </a>
+                </div>
+                <div>
                   <a
                     href="https://adventure-game00.netlify.app/"
                     target="_blank"
