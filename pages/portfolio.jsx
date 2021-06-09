@@ -50,7 +50,7 @@ function Portfolio() {
                     href="https://treasure-hunter00.netlify.app/"
                     target="_blank"
                   >
-                    <img src="pages/pics/1.svg" />
+                    <img src="1.png" />
                   </a>
                 </div>
                 <div>
