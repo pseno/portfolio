@@ -109,7 +109,7 @@ a:hover {
     .div1 {
       margin: 50px;
       column-count: 3;
-      justify-content: space-between;
+      align-items: center;
     }
 
     .div1 p {
@@ -123,6 +123,9 @@ a:hover {
     .div3 {
       margin: 50px;
       column-count: 2;
+    }
+    .div3 p {
+      column-span: all;
     }
 
     .cta {
