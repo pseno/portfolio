@@ -68,7 +68,7 @@ function Portfolio() {
                 <div>
                   <a href="https://bug-invaders.netlify.app/" target="_blank">
                     <img
-                      src="C:\Users\pasal\projects\next-js-portfolio-web\styles\one.png"
+                      src="https://postimg.cc/p9z9Ywxj"
                       alt="Bug Invaders"
                       width="100"
                       height="150"
