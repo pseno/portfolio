@@ -108,8 +108,9 @@ a:hover {
 
     .div1 {
       margin: 50px;
-      column-count: 4;
-      align-content: flex-start;
+      padding: 50px;
+      column-count: 3;
+      justify-content: space-around;
     }
 
     .div1 p {
@@ -123,7 +124,7 @@ a:hover {
     .div3 {
       margin: 50px;
       column-count: 2;
-      align-content: flex-start;
+      justify-content: space-around;
     }
     .div3 p {
       column-span: all;
