@@ -110,7 +110,7 @@ a:hover {
       margin: 50px;
       column-count: 3;
       column-gap: 20px;
-      column-width: 100px;
+      width: 60%;
     }
 
     .div1 p {
@@ -119,14 +119,14 @@ a:hover {
 
     .div2 {
       margin: 50px;
+      width: 20%;
     }
 
     .div3 {
       margin: 50px;
       column-count: 2;
       column-gap: 20px;
-      column-width: 100px;
-      align-items: center;
+      width: 20%;
     }
     .div3 p {
       column-span: all;
