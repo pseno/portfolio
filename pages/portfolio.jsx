@@ -50,7 +50,7 @@ function Portfolio() {
                     href="https://treasure-hunter00.netlify.app/"
                     target="_blank"
                   >
-                    <img src="1.png" />
+                    <img src="https://content.codecademy.com/courses/learn-phaser/Treasure%20Hunter/Start%20Screen.png" />
                   </a>
                 </div>
                 <div>
