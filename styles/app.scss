@@ -108,8 +108,10 @@ a:hover {
 
     .div1 {
       margin: 50px;
-      display: flex;
-      float: left;
+      column-count: 4;
+      column-gap: 50px;
+      column-width: 100px;
+      align-items: center;
     }
 
     .div1 p {
@@ -122,8 +124,10 @@ a:hover {
 
     .div3 {
       margin: 50px;
-      display: flex;
-      float: left;
+      column-count: 2;
+      column-gap: 50px;
+      column-width: 100px;
+      align-items: center;
     }
     .div3 p {
       column-span: all;
