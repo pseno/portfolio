@@ -111,6 +111,10 @@ a:hover {
       column-count: 3;
     }
 
+    .div1 p {
+      column-span: all;
+    }
+
     .div2 {
       margin: 50px;
     }
