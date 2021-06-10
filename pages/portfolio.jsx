@@ -28,8 +28,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/CKpJZkCW/numbr-guesser.png"
                       alt="Number Guesser"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -39,8 +39,8 @@ function Portfolio() {
                     <img
                       src="https://content.codecademy.com/courses/learn-phaser/cube-matcher/start.png"
                       alt="Cube Matcher"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -50,8 +50,8 @@ function Portfolio() {
                     <img
                       src="https://content.codecademy.com/courses/learn-phaser/electric-mouse/start.png"
                       alt="Electric Mouse"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -64,8 +64,8 @@ function Portfolio() {
                     <img
                       src="https://content.codecademy.com/courses/learn-phaser/BOB/Start%20screen.png"
                       alt="Business Outfitted Bob"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -78,8 +78,8 @@ function Portfolio() {
                     <img
                       src="https://content.codecademy.com/courses/learn-phaser/Treasure%20Hunter/Start%20Screen.png"
                       alt="Treasure Hunter"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -92,8 +92,8 @@ function Portfolio() {
                     <img
                       src="https://content.codecademy.com/courses/learn-phaser/mole-unearther/start.png"
                       alt="Mole Unearther"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -103,8 +103,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/TPHrGx4t/one.png"
                       alt="Bug Invaders"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -114,8 +114,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/Y043W9JG/trdownload.png"
                       alt="Bug Dodger"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -128,8 +128,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/Bv3yrdzL/adventuregame.png"
                       alt="Adventure Game"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -142,8 +142,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/ncZ3cvkg/pegasus.png"
                       alt="Color a Pegasus"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -159,8 +159,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/fywCRsNp/colorgeneratorpng.png"
                       alt="Random Color Generator"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -173,8 +173,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/MZymfv3B/excursion.png"
                       alt="Excursion"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
@@ -187,8 +187,8 @@ function Portfolio() {
                     <img
                       src="https://i.postimg.cc/BZgJvC31/colmar-acadaemypng.png"
                       alt="Colmar Academy"
-                      width="100"
-                      height="150"
+                      width="150"
+                      height="200"
                     />
                   </a>
                 </div>
