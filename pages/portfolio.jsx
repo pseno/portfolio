@@ -25,16 +25,34 @@ function Portfolio() {
                     target="_blank"
                   >
                     Number Guesser
+                    <img
+                      src="https://i.postimg.cc/CKpJZkCW/numbr-guesser.png"
+                      alt="Number Guesser"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
                   <a href="https://cube-matcher.netlify.app/" target="_blank">
                     Cube Matcher
+                    <img
+                      src="https://content.codecademy.com/courses/learn-phaser/cube-matcher/start.png"
+                      alt="Cube Matcher"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
                   <a href="https://electric-mouse.netlify.app/" target="_blank">
                     Electric Mouse
+                    <img
+                      src="https://content.codecademy.com/courses/learn-phaser/electric-mouse/start.png"
+                      alt="Electric Mouse"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
@@ -43,6 +61,12 @@ function Portfolio() {
                     target="_blank"
                   >
                     Business Outfitted Bob
+                    <img
+                      src="https://content.codecademy.com/courses/learn-phaser/BOB/Start%20screen.png"
+                      alt="Business Outfitted Bob"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
@@ -65,6 +89,12 @@ function Portfolio() {
                     target="_blank"
                   >
                     Mole Unearther
+                    <img
+                      src="https://content.codecademy.com/courses/learn-phaser/mole-unearther/start.png"
+                      alt="Mole Unearther"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
@@ -95,6 +125,12 @@ function Portfolio() {
                     target="_blank"
                   >
                     Adventure Game
+                    <img
+                      src="https://i.postimg.cc/Bv3yrdzL/adventuregame.png"
+                      alt="Adventure Game"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
@@ -103,6 +139,12 @@ function Portfolio() {
                     target="_blank"
                   >
                     Color a Pegasus
+                    <img
+                      src="https://i.postimg.cc/ncZ3cvkg/pegasus.png"
+                      alt="Color a Pegasus"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
               </div>
@@ -114,6 +156,12 @@ function Portfolio() {
                     target="_blank"
                   >
                     Random color generator
+                    <img
+                      src="https://i.postimg.cc/fywCRsNp/colorgeneratorpng.png"
+                      alt="Random Color Generator"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
               </div>
@@ -122,6 +170,12 @@ function Portfolio() {
                 <div>
                   <a href="https://excursion.pseno.repl.co/" target="_blank">
                     Excursion
+                    <img
+                      src="https://i.postimg.cc/MZymfv3B/excursion.png"
+                      alt="Excursion"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
@@ -130,6 +184,12 @@ function Portfolio() {
                     target="_blank"
                   >
                     Colmar Academy
+                    <img
+                      src="https://i.postimg.cc/BZgJvC31/colmar-acadaemypng.png"
+                      alt="Colmar Academy"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
               </div>
