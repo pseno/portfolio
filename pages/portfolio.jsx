@@ -50,8 +50,10 @@ function Portfolio() {
                     href="https://treasure-hunter00.netlify.app/"
                     target="_blank"
                   >
+                    Treasure Hunter
                     <img
                       src="https://content.codecademy.com/courses/learn-phaser/Treasure%20Hunter/Start%20Screen.png"
+                      alt="Treasure Hunter"
                       width="100"
                       height="150"
                     />
@@ -67,6 +69,7 @@ function Portfolio() {
                 </div>
                 <div>
                   <a href="https://bug-invaders.netlify.app/" target="_blank">
+                    Bug Invaders
                     <img
                       src="https://i.postimg.cc/TPHrGx4t/one.png"
                       alt="Bug Invaders"
@@ -77,6 +80,7 @@ function Portfolio() {
                 </div>
                 <div>
                   <a href="https://bug-dodger.netlify.app/" target="_blank">
+                    Bug Dodger
                     <img
                       src="https://i.postimg.cc/Y043W9JG/trdownload.png"
                       alt="Bug Dodger"
