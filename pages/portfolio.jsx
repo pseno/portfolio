@@ -68,7 +68,7 @@ function Portfolio() {
                 <div>
                   <a href="https://bug-invaders.netlify.app/" target="_blank">
                     <img
-                      src="https://bug-invaders.netlify.app/"
+                      src="https://cdn.jsdelivr.net/npm/phaser@3.16.2/dist/phaser.min.js"
                       alt="Bug Invaders"
                       width="100"
                       height="150"
