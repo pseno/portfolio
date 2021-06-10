@@ -77,7 +77,12 @@ function Portfolio() {
                 </div>
                 <div>
                   <a href="https://bug-dodger.netlify.app/" target="_blank">
-                    Bug Dodger
+                    <img
+                      src="https://i.postimg.cc/Y043W9JG/trdownload.png"
+                      alt="Bug Dodger"
+                      width="100"
+                      height="150"
+                    />
                   </a>
                 </div>
                 <div>
