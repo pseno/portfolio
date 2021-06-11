@@ -196,7 +196,7 @@ function Portfolio() {
                   <a href="https://excursion.pseno.repl.co/" target="_blank">
                     Excursion
                     <img
-                      src="https://i.postimg.cc/SRvVsDbc/excrs.png"
+                      src="https://i.postimg.cc/wj0cF9B0/11-Screenshot-2021-06-11-170536.png"
                       alt="Excursion"
                       width="150"
                       height="200"
