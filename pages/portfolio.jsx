@@ -147,6 +147,31 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a href="https://codey-game.netlify.app/" target="_blank">
+                    Codey Game
+                    <img
+                      src="https://i.postimg.cc/LXQFx8D3/codey.png"
+                      alt="Codey Game"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="https://codeys-counting-conundrum.netlify.app/"
+                    target="_blank"
+                  >
+                    Codey's Counting Conundrum
+                    <img
+                      src="https://i.postimg.cc/13Mgyp3m/codey2.png"
+                      alt="Codey's Counting Conundrum"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
               <div className="div2">
                 <p>Comand line programs:</p>
