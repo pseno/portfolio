@@ -196,7 +196,7 @@ function Portfolio() {
                   <a href="https://excursion.pseno.repl.co/" target="_blank">
                     Excursion
                     <img
-                      src="https://i.postimg.cc/MZymfv3B/excursion.png"
+                      src="https://i.postimg.cc/SRvVsDbc/excrs.png"
                       alt="Excursion"
                       width="150"
                       height="200"
@@ -210,7 +210,7 @@ function Portfolio() {
                   >
                     Colmar Academy
                     <img
-                      src="https://i.postimg.cc/BZgJvC31/colmar-acadaemypng.png"
+                      src="https://i.postimg.cc/L512CQDs/Screenshot-2021-06-11-165747.png"
                       alt="Colmar Academy"
                       width="150"
                       height="200"
