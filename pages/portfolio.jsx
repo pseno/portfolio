@@ -172,6 +172,17 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a href="https://codey-in-snow.netlify.app/" target="_blank">
+                    Codey in Snow
+                    <img
+                      src="https://i.postimg.cc/VN961s38/Screenshot-2021-06-12-141932.png"
+                      alt="Codey in Snow"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
               <div className="div2">
                 <p>Comand line programs:</p>
