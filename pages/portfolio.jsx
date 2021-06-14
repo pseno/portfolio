@@ -194,6 +194,17 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a href="https://fast-foodie.netlify.app/" target="_blank">
+                    Fast Foodie
+                    <img
+                      src="https://i.postimg.cc/XNKL7TQ0/Screenshot-2021-06-14-140647.png"
+                      alt="Fast Foodie"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
               <div className="div2">
                 <p>Comand line programs:</p>
