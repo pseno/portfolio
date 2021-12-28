@@ -205,6 +205,20 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a
+                    href="https://chore-door-game-1.netlify.app/"
+                    target="_blank"
+                  >
+                    Chore Door!
+                    <img
+                      src="https://i.postimg.cc/3N0hZw4L/Screenshot-2021-12-28-172230.png"
+                      alt="Chore Door!"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
               <div className="div2">
                 <p>Comand line programs:</p>
