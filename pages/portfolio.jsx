@@ -264,6 +264,17 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a href="https://musicon11.netlify.app/" target="_blank">
+                    Musicon
+                    <img
+                      src="https://i.postimg.cc/tTqVRGXt/Screenshot-2021-12-29-171800.png"
+                      alt="Musicon"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
             </div>
           </div>
