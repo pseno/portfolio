@@ -17,7 +17,7 @@ function Contact() {
             <h1 className="title">Contact</h1>
             <p className="description"></p>
             <ul className="contact-links">
-              <li className="contact-item">Email: pasalicseno@hotmail.com</li>
+              <li className="contact-item">Email: pasalicseno1@gmail.com</li>
             </ul>
           </div>
         </div>
