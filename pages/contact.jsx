@@ -18,6 +18,7 @@ function Contact() {
             <p className="description"></p>
             <ul className="contact-links">
               <li className="contact-item">Email: pasalicseno1@gmail.com</li>
+              <li className="contact-item">Github: https://github.com/pseno</li>
             </ul>
           </div>
         </div>
