@@ -226,7 +226,7 @@ function Portfolio() {
                   >
                     Animal Fun Facts
                     <img
-                      src="https://i.postimg.cc/WzWS2HJc/Screenshot-2022-02-18-134148.png"
+                      src="https://i.postimg.cc/MKw91gS5/Screenshot-2022-02-18-135325.png"
                       alt="Animal Fun Facts"
                       width="150"
                       height="200"
