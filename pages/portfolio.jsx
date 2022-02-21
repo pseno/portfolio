@@ -233,7 +233,7 @@ function Portfolio() {
                     />
                   </a>
                 </div>
-                div>
+                <div>
                   <a
                     href="https://random-color-picker.pseno.repl.co/"
                     target="_blank"
