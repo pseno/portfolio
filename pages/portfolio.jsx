@@ -240,7 +240,7 @@ function Portfolio() {
                   >
                     Random Color Picker
                     <img
-                      src="https://i.postimg.cc/x18GcxXP/Screenshot-2022-02-21-134816.png"
+                      src="https://i.postimg.cc/3rqCpVqN/Screenshot-2022-02-21-134816.png"
                       alt="Random Color Picker"
                       width="150"
                       height="200"
