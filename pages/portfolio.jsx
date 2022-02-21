@@ -233,6 +233,20 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                div>
+                  <a
+                    href="https://random-color-picker.pseno.repl.co/"
+                    target="_blank"
+                  >
+                    Random Color Picker
+                    <img
+                      src="https://i.postimg.cc/rmSKDMVr/Screenshot-2022-02-21-121608.png"
+                      alt="Random Color Picker"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
               <div className="div2">
                 <p>Comand line programs:</p>
