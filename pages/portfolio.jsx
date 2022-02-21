@@ -325,6 +325,20 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a
+                    href="https://social-network-for-pets.pseno.repl.co/"
+                    target="_blank"
+                  >
+                    Social Network for Pets
+                    <img
+                      src="https://i.postimg.cc/KYTWwvrw/Screenshot-2022-02-21-133339.png"
+                      alt="Social Network for Pets"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
             </div>
           </div>
