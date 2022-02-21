@@ -332,7 +332,7 @@ function Portfolio() {
                   >
                     Social Network for Pets
                     <img
-                      src="https://i.postimg.cc/KYTWwvrw/Screenshot-2022-02-21-133339.png"
+                      src="https://i.postimg.cc/CxRMZkS8/Screenshot-2022-02-21-133942.png"
                       alt="Social Network for Pets"
                       width="150"
                       height="200"
