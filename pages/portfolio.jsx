@@ -339,6 +339,20 @@ function Portfolio() {
                     />
                   </a>
                 </div>
+                <div>
+                  <a
+                    href="https://passing-thoughts.pseno.repl.co/"
+                    target="_blank"
+                  >
+                    Passing Thoughts
+                    <img
+                      src="https://i.postimg.cc/6p2dmvBf/Screenshot-2022-02-22-224348.png"
+                      alt="Passing Thoughts"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
               </div>
             </div>
           </div>
