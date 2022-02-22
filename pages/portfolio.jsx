@@ -346,7 +346,7 @@ function Portfolio() {
                   >
                     Passing Thoughts
                     <img
-                      src="https://i.postimg.cc/6p2dmvBf/Screenshot-2022-02-22-224348.png"
+                      src="https://i.postimg.cc/Cxxf3fYQ/Screenshot-2022-02-22-224348.png"
                       alt="Passing Thoughts"
                       width="150"
                       height="200"
