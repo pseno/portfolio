@@ -351,6 +351,17 @@ function Portfolio() {
                   </a>
                 </div>
                 <div>
+                  <a href="https://copycat.pseno.repl.co/" target="_blank">
+                    Copycat
+                    <img
+                      src="https://i.postimg.cc/Gm0LsrXP/Screenshot-2022-02-23-205528.png"
+                      alt="Copycat"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
+                <div>
                   <a
                     href="https://passing-thoughts.pseno.repl.co/"
                     target="_blank"
