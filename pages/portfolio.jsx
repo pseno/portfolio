@@ -340,6 +340,17 @@ function Portfolio() {
                   </a>
                 </div>
                 <div>
+                  <a href="https://video-player.pseno.repl.co/" target="_blank">
+                    Video Player
+                    <img
+                      src="https://i.postimg.cc/rpp4SfKN/Screenshot-2022-02-23-132017.png"
+                      alt="Video Player"
+                      width="150"
+                      height="200"
+                    />
+                  </a>
+                </div>
+                <div>
                   <a
                     href="https://passing-thoughts.pseno.repl.co/"
                     target="_blank"
